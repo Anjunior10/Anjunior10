@@ -1,0 +1,32 @@
+*{
+  
+  margin: 10px;
+ 
+  
+}
+body{
+  background-image: url("Img.png");
+  background-repeat: none;
+  background-color: #dddddd;
+  background-size: cover;
+  border:solid 1px;
+  align-items: center;
+}
+
+button{
+  margin-top: 4em;
+  background-color:darkred;
+  color:white;
+  border-radius: 10px;
+  height: 30px;
+  left: 30px;
+  width: 25em;
+}
+
+p{
+  border: solid 2px black;
+  border-radius: 15px;
+  color: green;
+  text-align: center;
+  background-color: #ffffee;
+}
